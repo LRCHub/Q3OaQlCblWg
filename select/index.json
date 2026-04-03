@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "天使のウィンク ～2025 ver.～",
+  "base_artist": "Acid Black Cherry",
+  "createdAt": "2026-04-03T03:23:07.804685Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天使のウィンク",
+      "artist": "尾崎亜美",
+      "has_synced": false,
+      "path": "select/01_天使のウィンク_尾崎亜美.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "天使のウィンク",
+      "artist": "松田聖子",
+      "has_synced": false,
+      "path": "select/02_天使のウィンク_松田聖子.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "天使のウィンク",
+      "artist": "松田 聖子",
+      "has_synced": true,
+      "path": "select/03_天使のウィンク_松田_聖子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "天使のウィンク",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/04_天使のウィンク_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "天使のウィンク",
+      "artist": "Seiko Matsuda",
+      "has_synced": false,
+      "path": "select/05_天使のウィンク_Seiko_Matsuda.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "天使のウィンク",
+      "artist": "Orange Caramel",
+      "has_synced": true,
+      "path": "select/06_天使のウィンク_Orange_Caramel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "天使のウィンク",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/07_天使のウィンク_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "天使のウィンク",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/08_天使のウィンク_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "天使のウィンク",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/09_天使のウィンク_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "天使のウィンク - ～2025 ver.～",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/10_天使のウィンク_-_~2025_ver.~_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "天使のウィンク",
+      "artist": "PUFFY",
+      "has_synced": false,
+      "path": "select/11_天使のウィンク_PUFFY.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "天使のウィンク [Angel's Wink]",
+      "artist": "松田聖子 (Seiko Matsuda)",
+      "has_synced": true,
+      "path": "select/12_天使のウィンク_[Angel's_Wink]_松田聖子_(Seiko_Matsuda).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "天使のウィンク [オリジナル・カラオケ] {Angel's Wink} {Original Karaoke}",
+      "artist": "松田聖子 (Seiko Matsuda)",
+      "has_synced": true,
+      "path": "select/13_天使のウィンク_[オリジナル・カラオケ]_{Angel's_Wink}_{Original_Karaoke}_松田聖子_(Seiko_Matsuda).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天使のウィンク",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/pl_01_天使のウィンク_Acid_Black_Cherry.txt"
+    }
+  ]
+}
